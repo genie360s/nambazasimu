@@ -1,0 +1,2 @@
+-e git+https://github.com/genie360s/nambazasimu.git@089f0c93e8da566ccf7f3cb80a4c5b7a6493db04#egg=nambazasimu
+setuptools==70.1.0
