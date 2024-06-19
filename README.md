@@ -13,6 +13,7 @@ In Tanzania, it can be challenging to identify which mobile network a phone numb
 - [x] Halotel
 - [x] Zantel
 - [x] Smile
+
 ## Research
 
 The author conducted intensive research and came across useful resources:
@@ -75,6 +76,14 @@ If you'd like to contribute to this project, follow these steps:
     git push origin your-branch-name
     ```
 8. **Raise a Pull Request**: Go to the original repository and create a new pull request.
+
+##  Challenges
+
+This package won't work if a phone number has undergone **Mobile Number Portability** .
+
+### What is MNP ( Mobile Number Portability ) ?
+
+Mobile Number Portability (MNP) is a telecommunications feature that allows mobile phone users to retain their phone numbers when switching from one mobile network operator to another.
 
 ## Raising Issues
 
