@@ -6,6 +6,13 @@ A Python package that identifies a Tanzanian phone number with respect to the mo
 
 In Tanzania, it can be challenging to identify which mobile network a phone number belongs to. This can be especially important for various services that rely on knowing the carrier, such as billing, sending cash, customer support, or mobile-specific features.
 
+## Mobile Networks covered  
+- [x] Vodacom
+- [x] Tigo
+- [x] Airtel
+- [x] Halotel
+- [x] Zantel
+- [x] Smile
 ## Research
 
 The author conducted intensive research and came across useful resources:
