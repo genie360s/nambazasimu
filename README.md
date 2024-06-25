@@ -19,6 +19,7 @@ In Tanzania, it can be challenging to identify which mobile network a phone numb
 The author conducted intensive research and came across useful resources:
 
 - [Wikipedia article on Tanzanian phone numbers](https://sw.wikipedia.org/wiki/Namba_za_simu_Tanzania)
+- [Wikipedia article on Telephone numbers in Tanzania](https://en.m.wikipedia.org/wiki/Telephone_numbers_in_Tanzania)
 - [Jamii Forums thread on identifying phone numbers by network](https://www.jamiiforums.com/threads/jinsi-ya-kutambua-namba-ya-simu-ni-ya-mtandao-upi.1438096/)
 
 ## Installation
@@ -96,6 +97,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## References
 
 - [Wikipedia article on Tanzanian phone numbers](https://sw.wikipedia.org/wiki/Namba_za_simu_Tanzania)
+- [Wikipedia article on Telephone numbers in Tanzania](https://en.m.wikipedia.org/wiki/Telephone_numbers_in_Tanzania)
 - [Jamii Forums thread on identifying phone numbers by network](https://www.jamiiforums.com/threads/jinsi-ya-kutambua-namba-ya-simu-ni-ya-mtandao-upi.1438096/)
 
 
