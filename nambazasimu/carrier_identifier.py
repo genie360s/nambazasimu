@@ -16,7 +16,7 @@ def identify_carrier(phone_number):
         'Vodacom' : ["74", "75", "76"],
         'Tigo' : ["71", "65", "67"],
         'Zantel' : ["77"],
-        'Halotel' : ["62"],
+        'Halotel' : ["61", "62"],
         'TTCL' : ["73"],
         'Smile' : ["66"]
     }
